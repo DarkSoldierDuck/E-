@@ -22,6 +22,7 @@
 * 将msedgedriver.exe置于C:\Users\你的电脑账户名\AppData\Local\Programs\Python\你的Python版本\Scripts中,运行脚本
 
 ## 其它
+
 * [下载YourBrowserDrive]()
 * 将yourbrowserdriver.exe置于C:\Users\你的电脑账户名\AppData\Local\Programs\Python\你的Python版本\Scripts中,运行脚本
 * 需修改
@@ -39,6 +40,7 @@ driver = webdriver.YourBrowser()
 #杂项
 
 ## 感激
+
 感谢以下的作者,排名不分先后
 
 * [firstlight & ChatGPT]
@@ -46,6 +48,4 @@ driver = webdriver.YourBrowser()
 
 ## 关于作者
 
-```javascript
 [Jesse](https://space.bilibili.com/1770180796)
-```
