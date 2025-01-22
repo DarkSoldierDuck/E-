@@ -48,4 +48,4 @@ driver = webdriver.YourBrowser()
 
 ## 关于作者
 
-[Jesse](https://space.bilibili.com/1770180796)
+[Jesse(Also DarkSoldierDuck)](https://space.bilibili.com/1770180796)
